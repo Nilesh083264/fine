@@ -2,6 +2,10 @@ hi bro ..
 
 hello bro ...
 
+<<<<<<< HEAD
 how are you 
 
 good ...
+=======
+how are you
+>>>>>>> 0b03fb8 (gg)
